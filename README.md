@@ -88,10 +88,5 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
