@@ -75,6 +75,6 @@
 
 ###
 
-<h4 align="left">- Lamer | Script kiddy<br>- TTP Researcher<br>- Red Team specialist</h4>
+<h4 align="left">- Lamer | Script kiddy<br>- TTP's Researcher<br>- Red Team specialist</h4>
 
 ###
